@@ -1,6 +1,6 @@
 {
 	"name": "strict-event-target",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Strictly typed definitions for EventTarget",
 	"license": "MIT",
 	"repository": "Richienb/strict-event-target",
